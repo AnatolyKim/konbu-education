@@ -1,0 +1,10 @@
+{
+  "name": "konbu-education-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/konbu-education-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["konbu-education"],
+  "// targets": "to see all targets run: nx show project konbu-education-e2e --web",
+  "targets": {}
+}
